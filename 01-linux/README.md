@@ -7,6 +7,15 @@
 **Operating System:** Ubuntu 14.04.5 LTS  
 **Difficulty:** CTF Lab
 
+### Tools Used
+
+- Kali Linux
+- ARP Scan
+- Nmap
+- Hydra
+- SSH
+- GTFOBins
+
 ---
 
 ## 1. Enumeration
@@ -153,14 +162,6 @@ c8aaf0f3189e000006c305bbfcbeb790
 
 ---
 
-## 9. Tools Used
-
-- Kali Linux
-- ARP Scan
-- Nmap
-- Hydra
-- SSH
-- GTFOBins
 
 ---
 
